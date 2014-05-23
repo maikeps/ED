@@ -1,0 +1,6 @@
+No sistema o usuário entra com os seguintes dados:
+
+O número de caixas do supermercado, indicando para cada caixa se ele é eficiente, médio ou ruim.
+O tempo médio de chegada, em segundos, de novos clientes no supermercado.
+Quanto tempo de operação, em horas, do supermercado o usuário deseja simular (tempo total de simulação).
+Estes dados podem ser digitados em uma tela de entrada de dados ou então lidos de um arquivo de configuração. Implemente ambas as opções. O formato do arquivo de configuração está descrito abaixo.

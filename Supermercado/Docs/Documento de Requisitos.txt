@@ -1,0 +1,10 @@
+O Sistema proverá ao usuário os seguintes dados:
+
+O faturamento total do supermercado no período.
+O faturamento médio por caixa.
+O faturamento real de cada caixa.
+O lucro por caixa, descontando-se o salario deste caixa no período compreendido pela simulação. Ignore outros custos, como luz elétrica, manutenção do terminal de ponto de venda, etc.
+O tempo médio de permanência de um cliente na fila.
+O número de clientes que desistiram porque a fila estava muito longa.
+O faturamento que deixou de ser realizado em função dos clientes que desistiram.
+O Nome do Supermercado lido do arquivo de configuração deve aparecer na tela quando o sistema terminar a simulação.
